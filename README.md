@@ -1,2 +1,9 @@
 # Grab-BepInEx-Installer
-This is a mod for Grab install this and put all the files in \steamapps\common\GRAB\Resources
+Install extract, put all the files in \steamapps\common\GRAB\Resources
+
+Kaboom modded game
+
+## HOW TO USE
+Open the Grab built-in menu and go to rules, then General, and all mods will be there.
+
+Click on the Verification Tab to go to the **Modded Lobbies Page**
