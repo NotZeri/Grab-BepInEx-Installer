@@ -1,3 +1,6 @@
+
+# THIS NO LONGER WORKS IN LATEST UPDATES
+
 # Grab-BepInEx-Installer
 Install extract, put all the files in \steamapps\common\GRAB\Resources
 
